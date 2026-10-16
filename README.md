@@ -17,23 +17,35 @@ This portfolio documents my practical technical projects, engineering labs, trou
 
 ## Engineering Projects
 
-Projects will be added here as they are completed, tested, and documented.
+My engineering portfolio is organized into six technical areas. Projects are added as they are independently completed, tested, and documented.
 
-**First project in development:** Cisco VLAN Segmentation and Inter-VLAN Routing
+| Repository | Engineering Focus |
+|---|---|
+| [Networking Labs](https://github.com/Jpelissier-tech/networking-labs) | Cisco Packet Tracer, subnetting, routing, switching, and troubleshooting |
+| [Linux Systems Administration](https://github.com/Jpelissier-tech/linux-systems-administration) | Linux server operations, permissions, services, and Bash scripting |
+| [Data Center Infrastructure](https://github.com/Jpelissier-tech/data-center-infrastructure) | Server hardware, RAID, rack design, and reliability |
+| [Python Infrastructure Tools](https://github.com/Jpelissier-tech/python-infrastructure-tools) | Monitoring, diagnostics, scripting, and automation |
+| [Cloud Infrastructure Labs](https://github.com/Jpelissier-tech/cloud-infrastructure-labs) | AWS, Azure, Google Cloud, and Terraform |
+| [Incident Response Case Studies](https://github.com/Jpelissier-tech/incident-response-case-studies) | Root-cause analysis, incident recovery, and preventive engineering |
+
+### Current Project
+
+**Lab 001: VLAN Segmentation and Inter-VLAN Routing** — Planned
 
 ## My Engineering Approach
 
-1. Understand the problem and technical requirements.
-2. Develop a structured implementation plan.
-3. Configure and test the environment.
-4. Diagnose failures using observable evidence.
-5. Validate the solution.
-6. Document findings and identify improvements.
+1. Understand the problem and requirements.
+2. Design and implement a solution.
+3. Test functionality and collect evidence.
+4. Diagnose failures using structured troubleshooting.
+5. Verify recovery and document the root cause.
+6. Identify improvements and lessons learned.
 
 ## Professional Development
 
-My goal is to deepen my expertise in large-scale infrastructure systems and grow toward advanced infrastructure engineering responsibilities.
+My goal is to deepen my expertise in infrastructure operations, networking, Linux, troubleshooting, and automation while progressing toward advanced infrastructure engineering responsibilities.
 
-## Connect
+## Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/jeffry-pelissier-390993360]
+- **LinkedIn:** [Jeffry Pelissier](https://www.linkedin.com/in/jeffry-pelissier-390993360/)
+- **GitHub:** [Jpelissier-tech](https://github.com/Jpelissier-tech)
